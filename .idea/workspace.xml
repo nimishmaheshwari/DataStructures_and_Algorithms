@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b42cca5a-066c-42a9-b12c-ba136352b138" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Patterns/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patterns/Third.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.second">
+  <component name="RunManager" selected="Python.Third">
     <configuration name="First" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DS_algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,6 +60,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Patterns/First.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Third" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DS_algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Patterns" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Patterns/Third.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Third" />
         <item itemvalue="Python.second" />
         <item itemvalue="Python.First" />
       </list>
@@ -117,23 +139,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1599124941424">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1599216668747">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599124941424" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1599124941424">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599216668747" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1599216668747">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599124941424" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1599124941424">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599216668747" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1599216668747">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599124941424" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1599124941424">
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599216668747" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1599216668747">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599124941424" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599216668747" />
   </component>
 </project>
